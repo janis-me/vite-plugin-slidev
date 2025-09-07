@@ -1,7 +1,7 @@
 {
-  "name": "@janis.me/starter-example",
-  "version": "0.0.0",
-  "private": true,
+  "name": "vite-plugin-slidev",
+  "version": "0.1.0",
+  "private": false,
   "type": "module",
   "imports": {
     "#*": [

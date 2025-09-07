@@ -1,8 +1,11 @@
 {
-  "name": "@janis.me/repo-starter",
-  "description": "A starter template for pnpm-based web repositories",
+  "name": "@janis.me/vite-plugin-slidev",
+  "private": true,
+  "description": "Run slidev as part of your vite config.",
   "keywords": [
-    "janis.me"
+    "janis.me",
+    "vite",
+    "slidev"
   ],
   "homepage": "https://janis.me",
   "license": "MIT",
@@ -28,7 +31,7 @@
     "typescript": "catalog:build",
     "vitest": "catalog:test"
   },
-  "packageManager": "pnpm@10.14.0",
+  "packageManager": "pnpm@10.15.1",
   "engines": {
     "node": ">=22.11.0"
   }
